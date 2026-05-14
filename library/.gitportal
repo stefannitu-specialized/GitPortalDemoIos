@@ -2,7 +2,6 @@
 	dir = bdir
 	bidircode = ios
 	bidirbranch = main
-	commit = 29eccd53f2e97ace380b9514c6c773daadefc1cd
-	parent = 68d92c2b6687e979720e382aaa33a876393cd832
+	commit = d7eed6a33aab4c20e6af052fe9015d408e0b4063
+	parent = 41b9c2039cd979f60bc956575036727f9ccb0292
 	remote = https://github.com/stefannitu-specialized/GitPortalTemplateLibrary.git
-	pullmergecommit = 29eccd53f2e97ace380b9514c6c773daadefc1cd
