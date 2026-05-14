@@ -5,3 +5,4 @@
 	commit = 29eccd53f2e97ace380b9514c6c773daadefc1cd
 	parent = 68d92c2b6687e979720e382aaa33a876393cd832
 	remote = https://github.com/stefannitu-specialized/GitPortalTemplateLibrary.git
+	pullmergebranch = library-android-2026-05-14-14-41-20
